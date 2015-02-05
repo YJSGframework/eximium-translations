@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="site" type="language" method="upgrade">
+	<name>Eximium Language (ru-RU)</name>
+	<tag>ru-RU</tag>
+	<version>1.0.0</version>
+	<creationDate>04-02-2015</creationDate>
+	<author>Stolyarenko Oleg</author>
+	<authorEmail>joomlatestanddrive@gmail.com</authorEmail>
+	<authorUrl>http://</authorUrl>
+	<copyright>Copyright (c) since 2007 Youjoomla.com. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Русский перевод для шаблона Eximium</description>
+	<files>
+		<filename>ru-RU.tpl_eximium.ini</filename>
+		<filename>ru-RU.tpl_eximium.sys.ini</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+</extension>
